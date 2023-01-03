@@ -1,0 +1,15 @@
+C:\HTL PRO\049Parkscheinautomat\bin\Debug\net7.0\049Parkscheinautomat.exe
+C:\HTL PRO\049Parkscheinautomat\bin\Debug\net7.0\049Parkscheinautomat.deps.json
+C:\HTL PRO\049Parkscheinautomat\bin\Debug\net7.0\049Parkscheinautomat.runtimeconfig.json
+C:\HTL PRO\049Parkscheinautomat\bin\Debug\net7.0\049Parkscheinautomat.dll
+C:\HTL PRO\049Parkscheinautomat\bin\Debug\net7.0\049Parkscheinautomat.pdb
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\049Parkscheinautomat.csproj.AssemblyReference.cache
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\049Parkscheinautomat.GeneratedMSBuildEditorConfig.editorconfig
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\049Parkscheinautomat.AssemblyInfoInputs.cache
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\049Parkscheinautomat.AssemblyInfo.cs
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\049Parkscheinautomat.csproj.CoreCompileInputs.cache
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\049Parkscheinautomat.dll
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\refint\049Parkscheinautomat.dll
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\049Parkscheinautomat.pdb
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\049Parkscheinautomat.genruntimeconfig.cache
+C:\HTL PRO\049Parkscheinautomat\obj\Debug\net7.0\ref\049Parkscheinautomat.dll
